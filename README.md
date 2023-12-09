@@ -4,6 +4,7 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![Static Badge](https://img.shields.io/badge/c%2B%2B?logo=cplusplus)
 ![cpp](https://img.shields.io/static/v1?logo=cpp&label=&message=cpp&color=36465D&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
