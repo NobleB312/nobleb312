@@ -9,7 +9,7 @@
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-
+&nbsp;&nbsp;&nbsp;
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@
   <img align="left" alt="Vincent's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website! : _coming soon_ &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; Website : _working on it_ &nbsp;&nbsp;&nbsp;
 
 <!--
 **NobleB312/nobleb312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
