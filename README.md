@@ -9,7 +9,7 @@ _I like all things security related, learning red team tactics to bring to the b
 ![bash](https://img.shields.io/badge/BASH-FFFFFF?style=flat-square&logo=gnubash&logoColor=344044)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![kubernetes](https://img.shields.io/badge/kubernetes-3872E7?style=flat-square&logo=kubernetes&logoColor=FFFFFF)
+<!--![kubernetes](https://img.shields.io/badge/kubernetes-3872E7?style=flat-square&logo=kubernetes&logoColor=FFFFFF)-->
 ![docker](https://img.shields.io/badge/docker-1D63ED?style=flat-square&logo=docker&logoColor=FFFFFF)
 &nbsp;&nbsp;&nbsp;
 ![skills](https://img.shields.io/static/v1?label=&message=skills:&color=111&style=flat-square)
