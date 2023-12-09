@@ -5,7 +5,7 @@
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![Static Badge](https://img.shields.io/badge/c%2B%2B?style=plastic&logoColor=7FFF00)
-![cpp](https://img.shields.io/static/v1?logo=cpp&label=&message=cpp&color=36465D&logoColor=AAA&style=flat-square&link=)
+![cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
