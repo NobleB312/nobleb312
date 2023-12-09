@@ -8,12 +8,12 @@
 ![bash](https://img.shields.io/badge/BASH-FFFFFF?style=flat-square&logo=gnubash&logoColor=344044)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
+![kubernetes](https://img.shields.io/badge/kubernetes-3872E7?style=flat-square&logo=kubernetes&logoColor=FFFFFF)
+![docker](https://img.shields.io/badge/docker-1D63ED?style=flat-square&logo=docker&logoColor=FFFFFF)
 &nbsp;&nbsp;&nbsp;
 ![skills](https://img.shields.io/static/v1?label=&message=skills:&color=111&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/badge/vim-CCCCCC?style=flat-square&logo=vim&logoColor=019833)
+![git](https://img.shields.io/badge/git-F26E4E?style=flat-square&logo=git&logoColor=FFFFFF)
 &nbsp;&nbsp;&nbsp;
 
 **Computer Science Student...** &#12299;_Third Year Junior at California State University, Long Beach_
