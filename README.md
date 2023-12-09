@@ -27,7 +27,7 @@ _I like all things security related, learning red team tactics to bring to the b
   <img align="left" alt="Vincent's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : ![php](https://img.shields.io/badge/work%20in%20progress-7A86B8?style=flat-square&logo=php&logoColor=1E212E) &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; Website : ![php](https://img.shields.io/badge/work%20in%20progress-1E212E?&logo=php) &nbsp;&nbsp;&nbsp;
 
 <!--
 **NobleB312/nobleb312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
