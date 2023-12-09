@@ -1,4 +1,4 @@
-### Hey there! My name is Vincent &nbsp;&nbsp;<sup>👾 &#12299;I like all things security related, learning red team tactics to bring to the blue side! I also really like to code!</sup>
+### Hey there! My name is Vincent &nbsp;<sup>;I like all things security related, learning red team tactics to bring to the blue side! I also really like to code!</sup>
 
 ----
 
