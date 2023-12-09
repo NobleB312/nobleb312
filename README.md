@@ -1,4 +1,5 @@
-Hey there! My name is Vincent &nbsp;&nbsp;<sup>I like all things security related, learning red team tactics to bring to the blue side! I also really like to code!</sup>
+### Hey there! My name is Vincent! 🏄‍♂️<br>  
+_I like all things security related, learning red team tactics to bring to the blue side! I also really like to code!_
 
 ----
 
@@ -8,7 +9,6 @@ Hey there! My name is Vincent &nbsp;&nbsp;<sup>I like all things security relate
 ![bash](https://img.shields.io/badge/BASH-FFFFFF?style=flat-square&logo=gnubash&logoColor=344044)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![kubernetes](https://img.shields.io/badge/kubernetes-3872E7?style=flat-square&logo=kubernetes&logoColor=FFFFFF)
 ![docker](https://img.shields.io/badge/docker-1D63ED?style=flat-square&logo=docker&logoColor=FFFFFF)
 &nbsp;&nbsp;&nbsp;
 ![skills](https://img.shields.io/static/v1?label=&message=skills:&color=111&style=flat-square)
@@ -26,7 +26,7 @@ Hey there! My name is Vincent &nbsp;&nbsp;<sup>I like all things security relate
   <img align="left" alt="Vincent's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : _working on it_ &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; Website : ![php](https://img.shields.io/badge/work%20in%20progress-1E212E?&) &nbsp;&nbsp;&nbsp;
 
 <!--
 **NobleB312/nobleb312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--![kubernetes](https://img.shields.io/badge/kubernetes-3872E7?style=flat-square&logo=kubernetes&logoColor=FFFFFF)-->
