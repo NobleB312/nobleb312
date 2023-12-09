@@ -22,7 +22,7 @@ _I like all things security related, learning red team tactics to bring to the b
 
 ----
 
-<a href="https://linkedin.com/in/vincentpierlot">
+<a href="https://linkedin.com/in/vincent-pierlot">
   <img align="left" alt="Vincent's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
