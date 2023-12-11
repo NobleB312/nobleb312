@@ -17,6 +17,7 @@ _I like all things security related, learning red team tactics to bring to the b
 ![skills](https://img.shields.io/static/v1?label=&message=skills:&color=111&style=flat-square)
 ![vim](https://img.shields.io/badge/vim-CCCCCC?style=flat-square&logo=vim&logoColor=019833)
 ![git](https://img.shields.io/badge/git-F26E4E?style=flat-square&logo=git&logoColor=FFFFFF)
+![linux](https://img.shields.io/badge/linux-000000?style=flat-square&logo=linux&logoColor=FFFFFF)
 &nbsp;&nbsp;&nbsp;
 
 **Computer Science Student...** &#12299;_Third Year Junior at California State University, Long Beach_
