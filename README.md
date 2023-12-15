@@ -8,6 +8,7 @@ _I like all things security related, learning red team tactics to bring to the b
 ![cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![bash](https://img.shields.io/badge/BASH-FFFFFF?style=flat-square&logo=gnubash&logoColor=344044)
 ![rust](https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=rust&logoColor=000000)
+![js](https://img.shields.io/badge/JavaScript-FCDC00?style=flat-square&logo=javascript&logoColor=000000)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![docker](https://img.shields.io/badge/docker-1D63ED?style=flat-square&logo=docker&logoColor=FFFFFF)
