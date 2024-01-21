@@ -31,7 +31,7 @@ _I like all things security related, learning red team tactics to bring to the b
   <img align="left" alt="Vincent's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : https://www.vincentpierlot.com/ &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; Website : <a href="https://www.vincentpierlot.com/" target="_blank">Opens in new tab</a> &nbsp;&nbsp;&nbsp;
 
 <!--
 **NobleB312/nobleb312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
