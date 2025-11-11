@@ -1,5 +1,5 @@
 ### Hey there! My name is Vincent! 🏄‍♂️<br>  
-_I like all things security related, learning red team tactics to bring to the blue side! I also really like to code!_
+_My current title is Cybersecurity Engineer, when I'm not pushing code at work, I like to work on personal projects here. Some of the tools and languages I enjoy using are listed here:_
 
 ----
 
