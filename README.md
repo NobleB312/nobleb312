@@ -28,7 +28,7 @@ _My current title is Cybersecurity Engineer, when I'm not pushing code at work, 
 ----
 
 <a href="https://linkedin.com/in/vincent-pierlot">
-  <img align="left" alt="Vincent's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Vincent's LinkedIn" width="20px" src="https://simpleicons.org/icons/vercel.svg" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website : <a href="https://www.vincentpierlot.com/" target="_blank" >https://www.vincentpierlot.com/</a> &nbsp;&nbsp;&nbsp;
