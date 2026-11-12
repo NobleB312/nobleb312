@@ -21,10 +21,6 @@ _My current title is Senior Cybersecurity Engineer, when I'm not securing things
 ![linux](https://img.shields.io/badge/linux-000000?style=flat-square&logo=linux&logoColor=FFFFFF)
 &nbsp;&nbsp;&nbsp;
 
-**Computer Science Student...** &#12299;_Third Year Junior at California State University, Long Beach_
-<br/>
-**...and I love Cybersecurity** &#12299;_specialising in compliancy and networking_
-
 ----
 
 <a href="https://linkedin.com/in/vincent-pierlot">
